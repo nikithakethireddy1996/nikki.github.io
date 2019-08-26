@@ -9,9 +9,9 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 **_The basic C source character set includes the following characters:_**
 
-1. _Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
-1. _Decimal digits: 0–9_
-1. _Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~_
+**1.** _Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
+**1.** _Decimal digits: 0–9_
+1. _Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | }_
 1. _Whitespace characters: space, horizontal tab, vertical tab, form feed, newline_
 1. _Newline indicates the end of a text line; it need not correspond to an actual single character, although for convenience C treats it as one._
 

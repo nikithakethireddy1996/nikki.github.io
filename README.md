@@ -15,20 +15,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+long some_function();
+/* int */ other_function();
 
-- Bulleted
-- List
+/* int */ calling_function()
+{
+    long test1;
+    register /* int */ test2;
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+    test1 = some_function();
+    if (test1 > 0)
+          test2 = 0;
+    else
+          test2 = other_function();
+    return test2;
+}
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

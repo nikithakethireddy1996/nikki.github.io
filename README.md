@@ -6,6 +6,9 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 ## Example Program1
 
+![](Screenshot (12).png)
+
+
 ## Character set 
 
 **_The basic C source character set includes the following characters:_**

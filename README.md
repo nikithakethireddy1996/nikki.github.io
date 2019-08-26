@@ -18,19 +18,19 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 ## Reserved words
 
-_C89 has 32 reserved words, also known as keywords, which are the words that cannot be used for any purposes other than those for which they are predefined:_
+**_C89 has 32 reserved words, also known as keywords, which are the words that cannot be used for any purposes other than those for which they are predefined:_**
 
-* auto
-* break
-* case
-* char
-* const
-* continue
-* default
-* do
-* double
-* else
-* enum
+* _auto_
+* _break_
+* _case_
+* _char_
+* _const_
+* _continue_
+* _default_
+* _do_
+* _double_
+* _else_
+* _enum_
 * extern
 * float
 * for
@@ -55,7 +55,7 @@ _C89 has 32 reserved words, also known as keywords, which are the words that can
 
 ## Operators
 
-_C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:_
+**_C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:_**
 
 * _arithmetic: +, -, *, /, %_
 * _assignment: =_

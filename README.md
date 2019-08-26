@@ -55,9 +55,9 @@ _C89 has 32 reserved words, also known as keywords, which are the words that can
 
 ## Operators
 
-_C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:
+_C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:_
 
-_* arithmetic: +, -, *, /, %
+* arithmetic: +, -, *, /, %
 * assignment: =
 * augmented assignment: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
 * bitwise logic: ~, &, |, ^
@@ -77,13 +77,13 @@ _* arithmetic: +, -, *, /, %
 
 ### Related languages
 
-C has both directly and indirectly influenced many later languages such as C#, D, Go, Java, JavaScript, Limbo, LPC, Perl, PHP, Python, and Unix's C shell.[40] The most pervasive influence has been syntactical, all of the languages mentioned combine the statement and (more or less recognizably) expression syntax of C with type systems, data models and/or large-scale program structures that differ from those of C, sometimes radically.
+_C has both directly and indirectly influenced many later languages such as C#, D, Go, Java, JavaScript, Limbo, LPC, Perl, PHP, Python, and Unix's C shell.[40] The most pervasive influence has been syntactical, all of the languages mentioned combine the statement and (more or less recognizably) expression syntax of C with type systems, data models and/or large-scale program structures that differ from those of C, sometimes radically._
 
 #### References
 
-* Please refer the following link for more information on C Language:
+_* Please refer the following link for more information on C Language:_
 https://en.wikipedia.org/wiki/C_(programming_language) 
-* Please refer the following link for more information on syntax for github pages:
+_* Please refer the following link for more information on syntax for github pages:_
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings
-* Please refer the following link for more information on C program images:
+_* Please refer the following link for more information on C program images:_
 https://www.google.com/search?q=sample+c+program+images&rlz=1C1GCEB_enUS863US863&oq=sample+c+program+ima&aqs=chrome.1.69i57j33l5.7416j0j7&sourceid=chrome&ie=UTF-8

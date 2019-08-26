@@ -81,9 +81,9 @@ _C has both directly and indirectly influenced many later languages such as C#, 
 
 #### References
 
-_* Please refer the following link for more information on C Language:_
+*_Please refer the following link for more information on C Language:_
 https://en.wikipedia.org/wiki/C_(programming_language) 
-_* Please refer the following link for more information on syntax for github pages:_
+*_Please refer the following link for more information on syntax for github pages:_
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings
-_ * Please refer the following link for more information on C program images:_
+*_Please refer the following link for more information on C program images:_
 https://www.google.com/search?q=sample+c+program+images&rlz=1C1GCEB_enUS863US863&oq=sample+c+program+ima&aqs=chrome.1.69i57j33l5.7416j0j7&sourceid=chrome&ie=UTF-8

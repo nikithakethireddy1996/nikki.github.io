@@ -53,3 +53,33 @@ unsigned
 void
 volatile
 while
+
+## Operators
+
+C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:
+
+arithmetic: +, -, *, /, %
+assignment: =
+augmented assignment: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
+bitwise logic: ~, &, |, ^
+bitwise shifts: <<, >>
+boolean logic: !, &&, ||
+conditional evaluation: ? :
+equality testing: ==, !=
+calling functions: ( )
+increment and decrement: ++, --
+member selection: ., ->
+object size: sizeof
+order relations: <, <=, >, >=
+reference and dereference: &, *, [ ]
+sequencing: ,
+subexpression grouping: ( )
+type conversion: (typename)
+
+### Related languages
+
+C has both directly and indirectly influenced many later languages such as C#, D, Go, Java, JavaScript, Limbo, LPC, Perl, PHP, Python, and Unix's C shell.[40] The most pervasive influence has been syntactical, all of the languages mentioned combine the statement and (more or less recognizably) expression syntax of C with type systems, data models and/or large-scale program structures that differ from those of C, sometimes radically.
+
+#### References
+Please refer the following link for more information on C Language 
+https://en.wikipedia.org/wiki/C_(programming_language)

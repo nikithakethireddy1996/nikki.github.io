@@ -97,4 +97,4 @@ https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings
 1. _Please refer the following link for more information on C program images:_
 https://www.google.com/search?q=sample+c+program+images&rlz=1C1GCEB_enUS863US863&oq=sample+c+program+ima&aqs=chrome.1.69i57j33l5.7416j0j7&sourceid=chrome&ie=UTF-8
 1. _Please refer the following link for more information on C program execution information:_
-https://www.google.com/search?q=how+to+excecute+c+program+images&rlz=1C1GCEB_enUS863US863&oq=how+to+excecute+c+program+images&aqs=chrome..69i57.16075j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=how+to+excecute+c+program+images&rlz=1C1GCEB_enUS863US863&oq=how+to+excecute+c+program+images&aqs=chrome..69i57.16075j0j7&sourceid=chrome&ie=UTF-8.

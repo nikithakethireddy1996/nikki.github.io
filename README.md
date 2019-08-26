@@ -5,7 +5,7 @@ _C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973
 _C is an imperative procedural language. It was designed to be compiled using a relatively straightforward compiler, to provide low-level access to memory, to provide language constructs that map efficiently to machine instructions, and to require minimal runtime support. Despite its low-level capabilities, the language was designed to encourage cross-platform programming. A standards-compliant C program that is written with portability in mind can be compiled for a wide variety of computer platforms and operating systems with few changes to its source code; the language has become available on various platforms, from embedded microcontrollers to supercomputers.
 
 ## Example Program1
-![]( Screenshot (12).png )
+![](Screenshot (12).png)
 
 
 ## Character set 

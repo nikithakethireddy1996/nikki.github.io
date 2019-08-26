@@ -26,7 +26,7 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 * _char_
 * _const_
 * _continue_
-* _default._
+* _default_
 * _do_
 * _double_
 * _else_
@@ -85,9 +85,9 @@ _C has both directly and indirectly influenced many later languages such as C#, 
 
 ### References
 
-* _Please refer the following link for more information on C Language:_
+1. _Please refer the following link for more information on C Language:_
 https://en.wikipedia.org/wiki/C_(programming_language) 
-* _Please refer the following link for more information on syntax for github pages:_
+1. _Please refer the following link for more information on syntax for github pages:_
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax#headings
-* _Please refer the following link for more information on C program images:_
+1. _Please refer the following link for more information on C program images:_
 https://www.google.com/search?q=sample+c+program+images&rlz=1C1GCEB_enUS863US863&oq=sample+c+program+ima&aqs=chrome.1.69i57j33l5.7416j0j7&sourceid=chrome&ie=UTF-8

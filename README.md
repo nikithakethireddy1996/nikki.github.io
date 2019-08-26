@@ -26,7 +26,7 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 * _char_
 * _const_
 * _continue_
-* _default_
+* _default._
 * _do_
 * _double_
 * _else_

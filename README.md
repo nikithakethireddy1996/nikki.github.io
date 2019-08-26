@@ -79,6 +79,7 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 * _type conversion: (typename)_
 
 ## Example Program2 
+![](Screenshot (16).png)
 
 ## Compilation of program 
 

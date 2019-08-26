@@ -9,8 +9,8 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 **_The basic C source character set includes the following characters:_**
 
-**1.** _Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
-**1.** _Decimal digits: 0–9_
+1. _Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
+1. _Decimal digits: 0–9_
 1. _Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | }_
 1. _Whitespace characters: space, horizontal tab, vertical tab, form feed, newline_
 1. _Newline indicates the end of a text line; it need not correspond to an actual single character, although for convenience C treats it as one._
@@ -75,11 +75,13 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 * _subexpression grouping: ( )_
 * _type conversion: (typename)_
 
-### Related languages
+## Example Program1 
+
+## Related languages
 
 _C has both directly and indirectly influenced many later languages such as C#, D, Go, Java, JavaScript, Limbo, LPC, Perl, PHP, Python, and Unix's C shell.[40] The most pervasive influence has been syntactical, all of the languages mentioned combine the statement and (more or less recognizably) expression syntax of C with type systems, data models and/or large-scale program structures that differ from those of C, sometimes radically._
 
-#### References
+### References
 
 * _Please refer the following link for more information on C Language:_
 https://en.wikipedia.org/wiki/C_(programming_language) 

@@ -11,9 +11,9 @@ _The basic C source character set includes the following characters:_
 
 1. _Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
 1. _Decimal digits: 0–9_
-1. Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~
-1. Whitespace characters: space, horizontal tab, vertical tab, form feed, newline
-1. Newline indicates the end of a text line; it need not correspond to an actual single character, although for convenience C treats it as one.
+1. _Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~_
+1. _Whitespace characters: space, horizontal tab, vertical tab, form feed, newline_
+1. _Newline indicates the end of a text line; it need not correspond to an actual single character, although for convenience C treats it as one._
 
 
 ## Reserved words
@@ -57,23 +57,23 @@ _C89 has 32 reserved words, also known as keywords, which are the words that can
 
 _C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:_
 
-* arithmetic: +, -, *, /, %
-* assignment: =
-* augmented assignment: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
-* bitwise logic: ~, &, |, ^
-* bitwise shifts: <<, >>
-* boolean logic: !, &&, ||
-* conditional evaluation: ? :
-* equality testing: ==, !=
-* calling functions: ( )
-* increment and decrement: ++, --
-* member selection: ., ->
-* object size: sizeof
-* order relations: <, <=, >, >=
-* reference and dereference: &, *, [ ]
-* sequencing: ,
-* subexpression grouping: ( )
-* type conversion: (typename) 
+* _arithmetic: +, -, *, /, %_
+* _assignment: =_
+* _augmented assignment: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=_
+* _bitwise logic: ~, &, |, ^_
+* _bitwise shifts: <<, >>_
+* _boolean logic: !, &&, ||_
+* _conditional evaluation: ? :_
+* _equality testing: ==, !=_
+* _calling functions: ( )_
+* _increment and decrement: ++, --_
+* _member selection: ., ->_
+* _object size: sizeof_
+* _order relations: <, <=, >, >=_
+* _reference and dereference: &, *, [ ]_
+* _sequencing: ,_
+* _subexpression grouping: ( )_
+* _type conversion: (typename)_
 
 ### Related languages
 

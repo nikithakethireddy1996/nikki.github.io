@@ -75,7 +75,9 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 * _subexpression grouping: ( )_
 * _type conversion: (typename)_
 
-## Example Program1 
+## Example Program1  
+
+![](Screenshot (12).png)
 
 ## Related languages
 

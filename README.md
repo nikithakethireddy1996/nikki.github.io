@@ -1,4 +1,5 @@
-## C (programming language)
+# C (programming language)
+*This text will be italic*
 
 C was originally developed at Bell Labs by Dennis Ritchie between 1972 and 1973 to make utilities running on Unix. Later, it was applied to re-implementing the kernel of the Unix operating system. During the 1980s, C gradually gained popularity. Nowadays, it is one of the most widely used programming languages, with C compilers from various vendors available for the majority of existing computer architectures and operating systems. C has been standardized by the ANSI since 1989  and subsequently by the International Organization for Standardization.
 
@@ -8,30 +9,9 @@ You can use the [editor on GitHub](https://github.com/nikithakethireddy1996/nikk
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-long some_function();
-/* int */ other_function();
-
-/* int */ calling_function()
-{
-    long test1;
-    register /* int */ test2;
-
-    test1 = some_function();
-    if (test1 > 0)
-          test2 = 0;
-    else
-          test2 = other_function();
-    return test2;
-}
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 

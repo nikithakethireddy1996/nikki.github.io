@@ -20,9 +20,9 @@ Newline indicates the end of a text line; it need not correspond to an actual si
 
 C89 has 32 reserved words, also known as keywords, which are the words that cannot be used for any purposes other than those for which they are predefined:
 
-auto
-break
-case
+* auto
+* break
+* case
 char
 const
 continue

@@ -9,16 +9,16 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 _The basic C source character set includes the following characters:_
 
-_1. Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z
-1. Decimal digits: 0–9
-1. Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~
-1. Whitespace characters: space, horizontal tab, vertical tab, form feed, newline
-1. Newline indicates the end of a text line; it need not correspond to an actual single character, although for convenience C treats it as one._ 
+_1. Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
+_1. Decimal digits: 0–9_
+_1. Graphic characters: ! " # % & ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~_
+_1. Whitespace characters: space, horizontal tab, vertical tab, form feed, newline_
+_1. Newline indicates the end of a text line; it need not correspond to an actual single character, although for convenience C treats it as one._ 
 
 
 ## Reserved words
 
-C89 has 32 reserved words, also known as keywords, which are the words that cannot be used for any purposes other than those for which they are predefined:
+_C89 has 32 reserved words, also known as keywords, which are the words that cannot be used for any purposes other than those for which they are predefined:_
 
 * auto
 * break
@@ -55,9 +55,9 @@ C89 has 32 reserved words, also known as keywords, which are the words that cann
 
 ## Operators
 
-C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:
+_C supports a rich set of operators, which are symbols used within an expression to specify the manipulations to be performed while evaluating that expression. C has operators for:
 
-* arithmetic: +, -, *, /, %
+_* arithmetic: +, -, *, /, %
 * assignment: =
 * augmented assignment: +=, -=, *=, /=, %=, &=, |=, ^=, <<=, >>=
 * bitwise logic: ~, &, |, ^

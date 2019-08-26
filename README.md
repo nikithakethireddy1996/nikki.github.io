@@ -7,7 +7,7 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 ## Character set 
 
-_The basic C source character set includes the following characters:_
+** _The basic C source character set includes the following characters:_ **
 
 1. _Lowercase and uppercase letters of ISO Basic Latin Alphabet: a–z A–Z_
 1. _Decimal digits: 0–9_

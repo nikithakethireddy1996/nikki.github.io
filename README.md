@@ -23,7 +23,7 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 
 **_C89 has 32 reserved words, also known as keywords, which are the words that cannot be used for any purposes other than those for which they are predefined:_**
 
-_ _auto_
+* _auto_
 * _break_
 * _case_
 * _char_

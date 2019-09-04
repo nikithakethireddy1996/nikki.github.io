@@ -76,7 +76,7 @@ _C is an imperative procedural language. It was designed to be compiled using a 
 * _reference and dereference: &, *, [ ]_
 * _sequencing: ,_
 * _subexpression grouping: ( )_
-* _type conversion: (typename)_
+* _type conversion: (typename.)_
 
 ## Example Program2 
 ![using auto and break keywords](http://www.javadepend.com/Blog/wp-content/uploads/c1.png)
